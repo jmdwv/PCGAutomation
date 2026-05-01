@@ -171,4 +171,4 @@ hexchat.hook_print('Channel Action Hilight', PCG_Auto)
 hexchat.hook_print('Channel Message', PCG_Message)
 hexchat.hook_print('Channel Msg Hilight', PCG_Message)
 
---github version
+--github version 2
