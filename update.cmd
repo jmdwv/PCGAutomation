@@ -1,0 +1,1 @@
+xcopy .\PCGAutomation\pokemonautomation.lua /y
